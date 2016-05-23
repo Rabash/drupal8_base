@@ -1,0 +1,6 @@
+name: 'Base'
+type: theme
+description: 'A base theme with sensible default CSS classes added.'
+package: Custom
+core: 8.x
+base theme: false
